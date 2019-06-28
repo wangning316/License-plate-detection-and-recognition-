@@ -1,15 +1,8 @@
 # -*- coding: utf-8 -*-
 
 '''
-这版上YOLO,我需要解决一些车牌定位问题，先在传统方法上做一些尝试
-这个版本有一些小的BUG没有解决
-车辆检测：YOLO v3
-颜色识别：呵呵
-车牌定位:EasyPR
-车牌分割：连通域外接矩形
-汉字识别：双字典模型 DPL
-字符识别：CNN
-'''
+the code is written in a file 
+its mad
 """
 Created on Sat Jul 28 19:02:17 2018
 
